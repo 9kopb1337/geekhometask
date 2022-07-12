@@ -76,3 +76,8 @@
 Чтобы слить две ветки, введите следующую команду:
 
 **git merge <branch_name>**
+## 15. Как запушить коммит?
+
+Чтобы запушить коммит, введите следующую команду:
+
+**git push remote origin <https//github.com/user_name/user_repo>**
